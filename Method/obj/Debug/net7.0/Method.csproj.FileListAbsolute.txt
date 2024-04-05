@@ -1,0 +1,15 @@
+C:\Users\PremKumarArul\OneDrive - Syncfusion\Desktop\Assignment\Method\bin\Debug\net7.0\Method.exe
+C:\Users\PremKumarArul\OneDrive - Syncfusion\Desktop\Assignment\Method\bin\Debug\net7.0\Method.deps.json
+C:\Users\PremKumarArul\OneDrive - Syncfusion\Desktop\Assignment\Method\bin\Debug\net7.0\Method.runtimeconfig.json
+C:\Users\PremKumarArul\OneDrive - Syncfusion\Desktop\Assignment\Method\bin\Debug\net7.0\Method.dll
+C:\Users\PremKumarArul\OneDrive - Syncfusion\Desktop\Assignment\Method\bin\Debug\net7.0\Method.pdb
+C:\Users\PremKumarArul\OneDrive - Syncfusion\Desktop\Assignment\Method\obj\Debug\net7.0\Method.csproj.AssemblyReference.cache
+C:\Users\PremKumarArul\OneDrive - Syncfusion\Desktop\Assignment\Method\obj\Debug\net7.0\Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PremKumarArul\OneDrive - Syncfusion\Desktop\Assignment\Method\obj\Debug\net7.0\Method.AssemblyInfoInputs.cache
+C:\Users\PremKumarArul\OneDrive - Syncfusion\Desktop\Assignment\Method\obj\Debug\net7.0\Method.AssemblyInfo.cs
+C:\Users\PremKumarArul\OneDrive - Syncfusion\Desktop\Assignment\Method\obj\Debug\net7.0\Method.csproj.CoreCompileInputs.cache
+C:\Users\PremKumarArul\OneDrive - Syncfusion\Desktop\Assignment\Method\obj\Debug\net7.0\Method.dll
+C:\Users\PremKumarArul\OneDrive - Syncfusion\Desktop\Assignment\Method\obj\Debug\net7.0\refint\Method.dll
+C:\Users\PremKumarArul\OneDrive - Syncfusion\Desktop\Assignment\Method\obj\Debug\net7.0\Method.pdb
+C:\Users\PremKumarArul\OneDrive - Syncfusion\Desktop\Assignment\Method\obj\Debug\net7.0\Method.genruntimeconfig.cache
+C:\Users\PremKumarArul\OneDrive - Syncfusion\Desktop\Assignment\Method\obj\Debug\net7.0\ref\Method.dll

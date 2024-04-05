@@ -1,0 +1,15 @@
+C:\Users\PremKumarArul\OneDrive - Syncfusion\Desktop\Assignment\SwitchStatement\bin\Debug\net7.0\SwitchStatement.exe
+C:\Users\PremKumarArul\OneDrive - Syncfusion\Desktop\Assignment\SwitchStatement\bin\Debug\net7.0\SwitchStatement.deps.json
+C:\Users\PremKumarArul\OneDrive - Syncfusion\Desktop\Assignment\SwitchStatement\bin\Debug\net7.0\SwitchStatement.runtimeconfig.json
+C:\Users\PremKumarArul\OneDrive - Syncfusion\Desktop\Assignment\SwitchStatement\bin\Debug\net7.0\SwitchStatement.dll
+C:\Users\PremKumarArul\OneDrive - Syncfusion\Desktop\Assignment\SwitchStatement\bin\Debug\net7.0\SwitchStatement.pdb
+C:\Users\PremKumarArul\OneDrive - Syncfusion\Desktop\Assignment\SwitchStatement\obj\Debug\net7.0\SwitchStatement.csproj.AssemblyReference.cache
+C:\Users\PremKumarArul\OneDrive - Syncfusion\Desktop\Assignment\SwitchStatement\obj\Debug\net7.0\SwitchStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PremKumarArul\OneDrive - Syncfusion\Desktop\Assignment\SwitchStatement\obj\Debug\net7.0\SwitchStatement.AssemblyInfoInputs.cache
+C:\Users\PremKumarArul\OneDrive - Syncfusion\Desktop\Assignment\SwitchStatement\obj\Debug\net7.0\SwitchStatement.AssemblyInfo.cs
+C:\Users\PremKumarArul\OneDrive - Syncfusion\Desktop\Assignment\SwitchStatement\obj\Debug\net7.0\SwitchStatement.csproj.CoreCompileInputs.cache
+C:\Users\PremKumarArul\OneDrive - Syncfusion\Desktop\Assignment\SwitchStatement\obj\Debug\net7.0\SwitchStatement.dll
+C:\Users\PremKumarArul\OneDrive - Syncfusion\Desktop\Assignment\SwitchStatement\obj\Debug\net7.0\refint\SwitchStatement.dll
+C:\Users\PremKumarArul\OneDrive - Syncfusion\Desktop\Assignment\SwitchStatement\obj\Debug\net7.0\SwitchStatement.pdb
+C:\Users\PremKumarArul\OneDrive - Syncfusion\Desktop\Assignment\SwitchStatement\obj\Debug\net7.0\SwitchStatement.genruntimeconfig.cache
+C:\Users\PremKumarArul\OneDrive - Syncfusion\Desktop\Assignment\SwitchStatement\obj\Debug\net7.0\ref\SwitchStatement.dll
